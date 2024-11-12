@@ -1,0 +1,77 @@
+.banner
+{
+    text-align: center;
+    border: 1px solid lightgrey;
+}
+.a
+{
+    font-weight: 400;
+    font-size: small;
+}
+.button
+{
+    text-align: center;
+    padding: 20px;
+}
+#head
+{
+    font-size: 25px;
+    font-weight: 350;
+    color: dimgrey;
+
+}
+.nav-link:hover
+{
+    text-decoration: underline;
+    
+}
+.collapse
+{
+   justify-content: center;
+}
+.image
+{
+    max-width: 100%;
+}
+.text
+{
+    position: absolute;
+    top: 500px;
+    color: white;
+    left: 350px;
+    font-size: 35px;
+}
+.button1
+{
+    position: absolute;
+    text-align: center;
+    left: 50%;
+    top: 600px;
+    
+}
+.button2
+{
+    background-color: transparent;
+    border:1px solid white;
+    border-radius: 15px;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.New
+{
+    padding: 10px;
+    font-size: 30px;
+}
+.Ready
+{
+    font-size: 30px;
+    padding: 40px;
+}
+.d-block
+{
+    height: 800px;
+}
